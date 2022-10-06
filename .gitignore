@@ -1,0 +1,10 @@
+##### Elixir Ignores #####
+
+/_build
+/cover
+/deps
+/doc
+erl_crash.dump
+*.ez
+*.beam
+.envrc
